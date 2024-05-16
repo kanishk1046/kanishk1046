@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/86/01/48/860148147a96966c53f4dd7a2ca09065.jpg"  />
-</div>
 
 ###
 

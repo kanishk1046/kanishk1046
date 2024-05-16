@@ -85,11 +85,6 @@
   <img src="https://cdn.simpleicons.org/adobexd/FF61F6" height="40" alt="xd logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kanishk1046.kanishk1046&left_color=darkgrey&right_color=black&left_text=Profile%20views"  />
-</div>
 
 ###
 
